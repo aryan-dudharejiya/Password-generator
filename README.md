@@ -1,2 +1,1 @@
-# Password-generator
-This is a password generator. which generates strong passwords for users. Check this out! 
+GenerateStrongPW is a Python program designed to create secure and randomized passwords. Users can specify the desired length and complexity of the password, including options for including uppercase and lowercase letters, numbers, and special characters. The generator ensures that each password is unique and difficult to guess, providing users with a reliable tool for enhancing their online security.
